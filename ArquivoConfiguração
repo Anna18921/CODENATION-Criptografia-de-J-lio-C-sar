@@ -1,0 +1,7 @@
+É necessário instalar algumas dependências: 
+ request, 
+ crypt,
+ fs.
+
+Onde tiver a variavel api, vocẽ irá colocar o endereço da api que vocẽ quer consumir.
+O método de envio utilizado é POST.
